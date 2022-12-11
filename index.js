@@ -1,2 +1,15 @@
-ReactDOM.render(<h1>bonjour jérôme</h1>, document.getElementById('root'))
+function Intro() {
+    return (<h1>intro profpepito.fr</h1>)
+}
+function Conclusion() {
+    return (<h1>conclusion :profpepito.fr</h1>)
+}
+
+ReactDOM.render(
+    <div>
+        <Intro />
+        <Conclusion />
+    </div>,
+    document.getElementById('root'))
+
 console.log('coucou')
