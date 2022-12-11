@@ -2,7 +2,7 @@ function Intro() {
     return (<h1>intro profpepito.fr</h1>)
 }
 function Conclusion() {
-    return (<h1>conclusion :profpepito.fr</h1>)
+    return (<h1>conclusion :profpepitoooooo.fr</h1>)
 }
 
 ReactDOM.render(
